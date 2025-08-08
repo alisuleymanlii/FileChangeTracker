@@ -39,10 +39,5 @@ This is a simple C# console application that monitors real-time changes in a spe
 
 ---
 
-## License
-
-This project is open-source and free to use.
-
-
-👨‍💻 Author
+## 👨‍💻 Author
 **Ali Süleymanlı**
